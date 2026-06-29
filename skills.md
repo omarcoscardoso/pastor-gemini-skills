@@ -28,6 +28,17 @@ Sempre que o usuário iniciar uma mensagem usando um dos comandos com barra (`/`
 
 ---
 
+## 📚 Skill: `/pg` (Análise de Pequenos Grupos / EBD)
+**Objetivo:** Gerar um roteiro de estudo bíblico interativo para células ou Escola Dominical.
+**Workflow do Gemini:**
+1. Com base no texto bíblico fornecido, faça um resumo teológico simples de 2 parágrafos (alinhado à "Linha Teológica").
+2. Gere **5 perguntas de reflexão**, divididas em:
+   - 2 perguntas de *Observação* (o que o texto diz).
+   - 2 perguntas de *Interpretação* (o que o texto significa).
+   - 1 pergunta de *Aplicação Pessoal* (o que faremos com isso).
+
+---
+
 ## 📢 Skill: `/comunicacao` (Boletim e Redes Sociais)
 **Objetivo:** Transformar avisos internos em textos engajadores.
 **Workflow do Gemini:**
